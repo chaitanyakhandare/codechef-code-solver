@@ -4,7 +4,7 @@ import sys, os, pyperclip
 
 # Code console = Mouse position: (1137, 436)
 # Chatgpt textbox = Mouse position: (516, 848)
-
+ 
 # Steps
 # M = select and copy question text MANUALLY
 # START the program
